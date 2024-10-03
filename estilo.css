@@ -18,3 +18,17 @@
     color: white;
     box-shadow: grey 50px 50px 15px;
 }
+.imagen{
+    width: 200px;
+    height: 130px;
+    padding: 8px;
+    border: 2px solid black;
+    float: left;
+    margin: 100px 75px;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+
+}
